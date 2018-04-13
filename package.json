@@ -1,0 +1,27 @@
+{
+  "name": "@neneos/nuxt-animate.css",
+  "version": "0.0.1",
+  "description": "An animate.css module for nuxt",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/neneos/nuxt-animate.css.git"
+  },
+  "keywords": [
+    "Nuxt",
+    "vue.js",
+    "animate.css"
+  ],
+  "author": "Robin Soenen (Neneos)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/neneos/nuxt-animate.css/issues"
+  },
+  "homepage": "https://github.com/neneos/nuxt-animate.css#readme",
+  "dependencies": {
+    "animate.css": "^3.6.1"
+  }
+}
